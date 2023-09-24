@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+  
+  .container-login-2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .col-md-9 {
+    margin-bottom: 10px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .field_level_error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .btn-2 {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
